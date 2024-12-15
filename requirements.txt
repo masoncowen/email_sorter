@@ -1,0 +1,4 @@
+pydantic
+pywin32
+pyqt5
+sqlite3
